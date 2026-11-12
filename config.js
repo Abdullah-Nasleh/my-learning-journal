@@ -2,5 +2,5 @@
 // publishable / anon key. NEVER put a secret/service_role key or a password here.
 window.JOURNAL_CONFIG = {
   supabaseUrl: 'https://iwzqpmpgwrhupimwnzju.supabase.co',
-  supabaseAnonKey: 'iwzqpmpgwrhupimwnzju'
+  supabaseAnonKey: 'sb_publishable_ZrV_oV1iGnglZxYauxXC3A_Pcqnn2Cw'
 };
